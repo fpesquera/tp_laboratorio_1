@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1567406919 source:d:\data programas\codeblocks projects\calculadora\funciones.c
+	"funciones.h"
+
+1567406919 d:\data programas\codeblocks projects\calculadora\funciones.h
+	<stdio.h>
+
+1567790013 source:d:\data programas\codeblocks projects\calculadora\main.c
+	<stdio.h>
+	"matematica.h"
+
+1567748336 d:\data programas\codeblocks projects\calculadora\matematica.h
+	<stdio.h>
+
+1567748336 source:d:\data programas\codeblocks projects\calculadora\matematica.c
+	"matematica.h"
+
